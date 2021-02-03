@@ -64,36 +64,5 @@
     <true/>
     <key>LSSupportsOpeningDocumentsInPlace</key>
     <true/>
-    <key>CFBundleDocumentTypes</key>
-    <array>
-      <dict>
-          <key>CFBundleTypeName</key>
-          <string>MP3</string>
-          <key>CFBundleTypeRole</key>
-          <string>Viewer</string>
-          <key>CFBundleTypeExtensions</key>
-          <array>
-              <string>mp3</string>
-          </array>
-          <key>LSItemContentTypes</key>
-          <array>
-              <string>VerbalOrder.mp3</string>
-          </array>
-      </dict>
-      <dict>
-          <key>CFBundleTypeName</key>
-          <string>WAV</string>
-          <key>CFBundleTypeRole</key>
-          <string>Viewer</string>
-          <key>CFBundleTypeExtensions</key>
-          <array>
-              <string>wav</string>
-          </array>
-          <key>LSItemContentTypes</key>
-          <array>
-              <string>VerbalOrder.wav</string>
-          </array>
-      </dict>
-    </array>
 </dict>
 </plist>
